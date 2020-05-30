@@ -1,2 +1,2 @@
 # IMC
-desenvolvido durante a #quarentenadev desenvolvido pela Alura Cursos.
+projeto feito durante a #quarentenadev desenvolvido pela Alura Cursos.
